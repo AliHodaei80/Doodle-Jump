@@ -8,5 +8,5 @@ A simple Doodle Jump game written in C++ powered by [RSDL](https://github.com/UT
 `A` -> move left
 `D` -> move right
 ## How To Use
-on linux's terminal you can write `make` to creating .out file and then write `./doodleJump.out`
+on linux's terminal you can write `make` to create .out file and then write `./doodleJump.out`
 Hope you enjoy :)
